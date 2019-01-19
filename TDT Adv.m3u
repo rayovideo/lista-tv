@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:0,3ABN LATINO
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+#EXTINF:0,3ABN Kids
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:0,Red Advenir
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
+#EXTINF:0,LLBN Latino
+https://textuploader.com/dbdbm/raw
+#EXTINF:0,LOGOS tv
+https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
+#EXTINF:0,Nuevo Tiempo
+http://stream.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:0,Esperanza TV
+https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/index_1096_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Esperanza TV Costa Rica
+http://tv.esperanzatvcr.org:1935/WEB/WEB/playlist.m3u8
+#EXTINF:0,Esperanza TV interamerica
+https://bcliveunivsecure-lh.akamaihd.net/i/IADSpanish_1@572888/master.m3u8
+#EXTINF:0,Esperanza TV Panama
+http://ca1.ministeriotv.com:1935/1521/1521/playlist.m3u8
+#EXTINF:0, Radio Vision Celestial
+https://textuploader.com/dbd3o/raw
+#EXTINF:0, Radio Esperanza Colombia 
+https://textuploader.com/dbd3j/raw
+#EXTINF:0, Radio Siloh Bogotá Colombia
+http://192.99.150.42:9986/stream
+#EXTINF:0,Radio Nuevo Tiempo Chile
+http://sonando.us.digitalproserver.com/nuevotiempo
+#EXTINF:0,Radio Nuevo Tiempo España
+http://ample-01.radiojar.com/aesy2chkb
+#EXTINF:0, Radio 3ABN Music Channel
+http://war.str3am.com:7180/MC01.m3u
+#EXTINF:0, Radio 3ABN LATINO [TV]
+https://war.streamguys1.com:7185/Latino.m3u
+#EXTINF:0,Radio Nuevo Tiempo Brasil
+http://stream.novotempo.com/radio/smil:radionovotempo.smil/playlist.m3u
+#EXTINF:0,Cómo Todo Comenzó 1: EL PREDICADOR REACIO
+https://textuploader.com/db5h1/raw
+#EXTINF:0,2: JESÚS VIENE PRONTO
+https://textuploader.com/db5h6/raw
+#EXTINF:0,3: UN AMARGO CHASCO
+https://textuploader.com/db5xh/raw
+#EXTINF:0,4: UNA PRUEBA DE FE
+https://textuploader.com/db5xg/raw
+#EXTINF:0,5: SE COLOCAN LOS CIMIENTOS
+https://textuploader.com/db5xp/raw
+#EXTINF:0,6: DILO AL MUNDO
+https://textuploader.com/db5xv/raw
+#EXTINF:0,1/8 La Apostasia  
+http://cdn.salemweb.net/godtube/2014/04/26/465734/465734_480p.mp4
+#EXTINF:0,2/8 Los Reformadores
+http://cdn.salemweb.net/godtube/2014/04/26/465735/465735_480p.mp4
+#EXTINF:0,3/8 La Gran Expectativa
+http://cdn.salemweb.net/godtube/2014/04/26/465737/465737_480p.mp4
+#EXTINF:0,4/8 Despues del Chasco
+http://cdn.salemweb.net/godtube/2014/04/26/465736/465736_480p.mp4
+#EXTINF:0,5/8 La Mas Debil de los Debiles
+http://cdn.salemweb.net/godtube/2014/04/26/465740/465740_480p.mp4
+#EXTINF:0,6/8 La Luz Menor Ampliando La Mayor
+http://cdn.salemweb.net/godtube/2014/04/26/465741/465741_480p.mp4
+#EXTINF:0,7/8 Un Saludable Estilo De Vida
+http://cdn.salemweb.net/godtube/2014/04/26/465742/465742_480p.mp4
+#EXTINF:0,8/8 Elena De White  -  La Mujer
+http://cdn.salemweb.net/godtube/2014/04/26/465743/465743_480p.mp4
+#EXTINF:0, Novo Tempo Brasil
+http://stream2.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:0, Hope Channel
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, Hope Channel Church
+https://bcliveunivsecure-lh.akamaihd.net/i/Church_1@571271/index_2596_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, Hope Channel International
+https://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/index_3192_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, 3ABN Three Angels
+https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/index.m3u8
+#EXTINF:0, 3ABN Dare to Dream 
+https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
+#EXTINF:0, 3ABN Français 
+https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/master.m3u8
+#EXTINF:0, 3ABN Proclaim!
+https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8
+#EXTINF:0, 3ABN Russia 
+http://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:0, 3ABN International
+https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
+#EXTINF:0, LLBN HisWord
+https://t01587-lh.akamaihd.net/i/t01587HisWord_1@692072/index_800_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+#EXTINF:0, LLBN HisLight
+https://t01587-lh.akamaihd.net/i/t01587HisLight_1@692073/master.m3u8
+#EXTINF:0, LLBN SmartLifeStyle
+https://t01587-lh.akamaihd.net/i/t01587SmartLifeStyle_1@692079/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+#EXTINF:0, LLBN SouthAsia
+https://t01587-lh.akamaihd.net/i/t01587SouthAsia_1@692078/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+#EXTINF:0, LLBN Arabic
+https://t01587-lh.akamaihd.net/i/t01587Arabic_1@692074/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+#EXTINF:0, LLBN Chinese
+https://t01587-lh.akamaihd.net/i/t01587Chinese_1@692075/index_1250_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+#EXTINF:0, LLBN Korean
+https://t01587-lh.akamaihd.net/i/t01587Korean_1@692076/index_1250_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
