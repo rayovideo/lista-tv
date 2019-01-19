@@ -23,11 +23,11 @@ http://ca1.ministeriotv.com:1935/1521/1521/playlist.m3u8
 https://textuploader.com/dbd3o/raw
 #EXTINF:0, Radio Esperanza Colombia 
 https://textuploader.com/dbd3j/raw
-#EXTINF:0, Radio Siloh Bogotá Colombia
+#EXTINF:0, Radio Siloh BogotÃ¡ Colombia
 http://192.99.150.42:9986/stream
 #EXTINF:0,Radio Nuevo Tiempo Chile
 http://sonando.us.digitalproserver.com/nuevotiempo
-#EXTINF:0,Radio Nuevo Tiempo España
+#EXTINF:0,Radio Nuevo Tiempo EspaÃ±a
 http://ample-01.radiojar.com/aesy2chkb
 #EXTINF:0, Radio 3ABN Music Channel
 http://war.str3am.com:7180/MC01.m3u
@@ -35,9 +35,9 @@ http://war.str3am.com:7180/MC01.m3u
 https://war.streamguys1.com:7185/Latino.m3u
 #EXTINF:0,Radio Nuevo Tiempo Brasil
 http://stream.novotempo.com/radio/smil:radionovotempo.smil/playlist.m3u
-#EXTINF:0,Cómo Todo Comenzó 1: EL PREDICADOR REACIO
+#EXTINF:0,CÃ³mo Todo ComenzÃ³ 1: EL PREDICADOR REACIO
 https://textuploader.com/db5h1/raw
-#EXTINF:0,2: JESÚS VIENE PRONTO
+#EXTINF:0,2: JESÃšS VIENE PRONTO
 https://textuploader.com/db5h6/raw
 #EXTINF:0,3: UN AMARGO CHASCO
 https://textuploader.com/db5xh/raw
@@ -75,7 +75,7 @@ https://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/index_3192_av-
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/index.m3u8
 #EXTINF:0, 3ABN Dare to Dream 
 https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
-#EXTINF:0, 3ABN Français 
+#EXTINF:0, 3ABN FranÃ§ais 
 https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/master.m3u8
 #EXTINF:0, 3ABN Proclaim!
 https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8
