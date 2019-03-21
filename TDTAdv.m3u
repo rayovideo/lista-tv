@@ -1,99 +1,105 @@
 #EXTM3U
-#EXTINF:0,3ABN LATINO
+#EXTINF:-1 group-title="TV E",3ABN LATINO
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-#EXTINF:0,3ABN Kids
+#EXTINF:-1 group-title="TV I",3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:0,Red Advenir
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
-#EXTINF:0,LLBN Latino
+#EXTINF:-1 group-title="TV E",LLBN Latino
 https://textuploader.com/dbdbm/raw
-#EXTINF:0,LOGOS tv
+#EXTINF:-1 group-title="TV E",LOGOS tv
 https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
-#EXTINF:0,Nuevo Tiempo
-http://stream.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:0,Esperanza TV
+#EXTINF:-1 group-title="TV E",Red Advenir
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
+#EXTINF:-1 group-title="TV E",Nuevo Tiempo
+http://stream2.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b2128000_slpor.m3u8
+#EXTINF:-1 group-title="TV E",Esperanza TV
 https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/index_1096_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,Esperanza TV Costa Rica
+#EXTINF:-1 group-title="TV E",Esperanza TV Costa Rica
 http://tv.esperanzatvcr.org:1935/WEB/WEB/playlist.m3u8
-#EXTINF:0,Esperanza TV interamerica
+#EXTINF:-1 group-title="TV E",Esperanza TV interamerica
 https://bcliveunivsecure-lh.akamaihd.net/i/IADSpanish_1@572888/master.m3u8
-#EXTINF:0,Esperanza TV Panama
+#EXTINF:-1 group-title="TV E",Esperanza TV Panama
 http://ca1.ministeriotv.com:1935/1521/1521/playlist.m3u8
-#EXTINF:0, Radio Vision Celestial
+
+#EXTINF:-1 group-title="RADIO E", Radio Vision Celestial
 https://textuploader.com/dbd3o/raw
-#EXTINF:0, Radio Esperanza Colombia 
+#EXTINF:-1 group-title="RADIO E", Radio Esperanza Colombia 
 https://textuploader.com/dbd3j/raw
-#EXTINF:0, Radio Siloh Bogotá Colombia
-http://192.99.150.42:9986/stream
-#EXTINF:0,Radio Nuevo Tiempo Chile
+#EXTINF:-1 group-title="RADIO E", Radio Siloh Bogotá Colombia
+https://textuploader.com/156zt/raw
+#EXTINF:-1 group-title="RADIO E",Radio Nuevo Tiempo Chile
 http://sonando.us.digitalproserver.com/nuevotiempo
-#EXTINF:0,Radio Nuevo Tiempo España
+#EXTINF:-1 group-title="RADIO E",Radio Nuevo Tiempo España
 http://ample-01.radiojar.com/aesy2chkb
-#EXTINF:0, Radio 3ABN Music Channel
+#EXTINF:-1 group-title="RADIO I", Radio 3ABN Music Channel
 http://war.str3am.com:7180/MC01.m3u
-#EXTINF:0, Radio 3ABN LATINO [TV]
+#EXTINF:-1 group-title="RADIO E", Radio 3ABN LATINO [TV]
 https://war.streamguys1.com:7185/Latino.m3u
-#EXTINF:0,Radio Nuevo Tiempo Brasil
+#EXTINF:-1 group-title="RADIO I",Radio Nuevo Tiempo Brasil
 http://stream.novotempo.com/radio/smil:radionovotempo.smil/playlist.m3u
-#EXTINF:0,Cómo Todo Comenzó 1: EL PREDICADOR REACIO
+
+#EXTINF:0 group-title="SERIES",Cómo Todo Comenzó 1/6: EL PREDICADOR REACIO
 https://textuploader.com/db5h1/raw
-#EXTINF:0,2: JESÚS VIENE PRONTO
+#EXTINF:0 group-title="SERIES",2/6: JESÚS VIENE PRONTO
 https://textuploader.com/db5h6/raw
-#EXTINF:0,3: UN AMARGO CHASCO
+#EXTINF:0 group-title="SERIES",3/6: UN AMARGO CHASCO
 https://textuploader.com/db5xh/raw
-#EXTINF:0,4: UNA PRUEBA DE FE
-https://textuploader.com/db5xg/raw
-#EXTINF:0,5: SE COLOCAN LOS CIMIENTOS
+#EXTINF:0 group-title="SERIES",4/6: UNA PRUEBA DE FE
+https://s3-us-west-2.amazonaws.com/adventist-telltheworld/es/Episodes/720/TTW_EPISODE_4_ES_720.mp4
+#EXTINF:0 group-title="SERIES",5/6: SE COLOCAN LOS CIMIENTOS
 https://textuploader.com/db5xp/raw
-#EXTINF:0,6: DILO AL MUNDO
+#EXTINF:0 group-title="SERIES",6/: DILO AL MUNDO
 https://textuploader.com/db5xv/raw
-#EXTINF:0,1/8 La Apostasia  
+
+#EXTINF:0 group-title="Serie",Guardianes de la Flama 1/8 La Apostasia  
 http://cdn.salemweb.net/godtube/2014/04/26/465734/465734_480p.mp4
-#EXTINF:0,2/8 Los Reformadores
+#EXTINF:0 group-title="SERIES",2/8 Los Reformadores
 http://cdn.salemweb.net/godtube/2014/04/26/465735/465735_480p.mp4
-#EXTINF:0,3/8 La Gran Expectativa
+#EXTINF:0 group-title="SERIES",3/8 La Gran Expectativa
 http://cdn.salemweb.net/godtube/2014/04/26/465737/465737_480p.mp4
-#EXTINF:0,4/8 Despues del Chasco
+#EXTINF:0 group-title="SERIES",4/8 Despues del Chasco
 http://cdn.salemweb.net/godtube/2014/04/26/465736/465736_480p.mp4
-#EXTINF:0,5/8 La Mas Debil de los Debiles
+#EXTINF:0 group-title="SERIES",5/8 La Mas Debil de los Debiles
 http://cdn.salemweb.net/godtube/2014/04/26/465740/465740_480p.mp4
-#EXTINF:0,6/8 La Luz Menor Ampliando La Mayor
+#EXTINF:0 group-title="SERIES",6/8 La Luz Menor Ampliando La Mayor
 http://cdn.salemweb.net/godtube/2014/04/26/465741/465741_480p.mp4
-#EXTINF:0,7/8 Un Saludable Estilo De Vida
+#EXTINF:0 group-title="SERIES",7/8 Un Saludable Estilo De Vida
 http://cdn.salemweb.net/godtube/2014/04/26/465742/465742_480p.mp4
-#EXTINF:0,8/8 Elena De White  -  La Mujer
+#EXTINF:0 group-title="SERIES",8/8 Elena De White . La Mujer
 http://cdn.salemweb.net/godtube/2014/04/26/465743/465743_480p.mp4
-#EXTINF:0, Novo Tempo Brasil
+
+#EXTINF:-1  group-title="TV I", Novo Tempo Brasil
 http://stream2.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:0, Hope Channel
+#EXTINF:-1  group-title="TV I", Hope Channel
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0, Hope Channel Church
-https://bcliveunivsecure-lh.akamaihd.net/i/Church_1@571271/index_2596_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0, Hope Channel International
+#EXTINF:-1  group-title="TV I", Hope Channel Church
+https://bcliveunivsecure-lh.akamaihd.net/i/Church_1@571271/index_696_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1  group-title="TV I", Hope Channel International
 https://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/index_3192_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0, 3ABN Three Angels
+#EXTINF:-1  group-title="TV I", 3ABN Three Angels
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/index.m3u8
-#EXTINF:0, 3ABN Dare to Dream 
+#EXTINF:-1  group-title="TV I", 3ABN Dare to Dream 
 https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
-#EXTINF:0, 3ABN Français 
+#EXTINF:-1  group-title="TV I", 3ABN Français 
 https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/master.m3u8
-#EXTINF:0, 3ABN Proclaim!
+#EXTINF:-1  group-title="TV I", 3ABN Proclaim!
 https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8
-#EXTINF:0, 3ABN Russia 
+#EXTINF:-1  group-title="TV I", 3ABN Russia 
 http://hls.tv.3angels.ru/stream.m3u8
-#EXTINF:0, 3ABN International
+#EXTINF:-1  group-title="TV I", 3ABN International
 https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
-#EXTINF:0, LLBN HisWord
-https://t01587-lh.akamaihd.net/i/t01587HisWord_1@692072/index_800_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
-#EXTINF:0, LLBN HisLight
+#EXTINF:-1  group-title="TV I", LLBN HisWord
+https://t01587-lh.akamaihd.net/i/t01587HisWord_1@692072/index_1400_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+#EXTINF:-1  group-title="TV I", LLBN HisLight
 https://t01587-lh.akamaihd.net/i/t01587HisLight_1@692073/master.m3u8
-#EXTINF:0, LLBN SmartLifeStyle
+#EXTINF:-1  group-title="TV I", LLBN SmartLifeStyle
 https://t01587-lh.akamaihd.net/i/t01587SmartLifeStyle_1@692079/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
-#EXTINF:0, LLBN SouthAsia
+#EXTINF:-1  group-title="TV I", LLBN SouthAsia
 https://t01587-lh.akamaihd.net/i/t01587SouthAsia_1@692078/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
-#EXTINF:0, LLBN Arabic
+#EXTINF:-1  group-title="TV I", LLBN Arabic
 https://t01587-lh.akamaihd.net/i/t01587Arabic_1@692074/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
-#EXTINF:0, LLBN Chinese
+#EXTINF:-1  group-title="TV I", LLBN Chinese
 https://t01587-lh.akamaihd.net/i/t01587Chinese_1@692075/index_1250_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
-#EXTINF:0, LLBN Korean
+#EXTINF:-1  group-title="TV I", LLBN Korean
 https://t01587-lh.akamaihd.net/i/t01587Korean_1@692076/index_1250_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+#EXTINF:0  group-title="PELICULA", Porque creo en Dios creador 
+https://drive.google.com/uc?id=1LTee29nlh8yg-kEv9ptdLFO9NPQHF7da&export=download&authuser=0
