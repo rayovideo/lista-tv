@@ -1,105 +1,126 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV E",3ABN LATINO
-https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-#EXTINF:-1 group-title="TV I",3ABN Kids
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 group-title="TV E",LLBN Latino
-https://textuploader.com/dbdbm/raw
-#EXTINF:-1 group-title="TV E",LOGOS tv
-https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
-#EXTINF:-1 group-title="TV E",Red Advenir
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
-#EXTINF:-1 group-title="TV E",Nuevo Tiempo
-http://stream2.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b2128000_slpor.m3u8
-#EXTINF:-1 group-title="TV E",Esperanza TV
-https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/index_1096_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="TV E",Esperanza TV Costa Rica
-http://tv.esperanzatvcr.org:1935/WEB/WEB/playlist.m3u8
-#EXTINF:-1 group-title="TV E",Esperanza TV interamerica
-https://bcliveunivsecure-lh.akamaihd.net/i/IADSpanish_1@572888/master.m3u8
-#EXTINF:-1 group-title="TV E",Esperanza TV Panama
-http://ca1.ministeriotv.com:1935/1521/1521/playlist.m3u8
 
-#EXTINF:-1 group-title="RADIO E", Radio Vision Celestial
+#EXTINF:0  group-title="LECCION", LECC.6 El majestuoso canto de amor MP4
+https://dl.dropboxusercontent.com/s/n7cn07ifxho8z4g/LECC.6%20El%20majestuoso%20canto%20de%20amor%20.mp4
+#EXTINF:-1 group-title="TV Español", 3ABN Latino
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+#EXTINF:-1 group-title="TV English", 3ABN Kids
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 group-title="TV Español", LOGOS TV
+https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
+#EXTINF:-1 group-title="TV Español", Nuevo Tiempo
+http://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b2128000_slpor.m3u8
+#EXTINF:-1 group-title="TV Español", Esperanza TV
+https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/index_1096_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="TV Español", Esperanza TV Costa Rica
+http://tv.esperanzatvcr.org:1935/WEB/WEB/playlist.m3u8
+#EXTINF:-1 group-title="TV Español", Esperanza TV Panama
+http://ca1.ministeriotv.com:1935/1521/1521/playlist.m3u8
+#EXTINF:-1 group-title="TV Español", Esperanza TV COLOMBIA 
+http://184.173.179.163:1935/8042/8042/playlist.m3u8
+#EXTINF:-1 group-title="TV Español", Esperanza TV interamerica
+https://bcliveunivsecure-lh.akamaihd.net/i/IADSpanish_1@572888/master.m3u8
+#EXTINF:-1 group-title="TV Español", LLBN Latino
+https://textuploader.com/dbdbm/raw
+#EXTINF:-1 group-title="TV Español", Red ADVenir
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
+#EXTINF:-1  group-title="TV Languages", Novo Tempo Brasil
+http://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b4128000_slpor.m3u8
+
+#EXTINF:-1 group-title="RADIO Español", Radio Vision Celestial
 https://textuploader.com/dbd3o/raw
-#EXTINF:-1 group-title="RADIO E", Radio Esperanza Colombia 
+#EXTINF:-1 group-title="RADIO Español", Radio Esperanza Colombia 
 https://textuploader.com/dbd3j/raw
-#EXTINF:-1 group-title="RADIO E", Radio Siloh Bogotá Colombia
+#EXTINF:-1 group-title="RADIO Español", Radio Siloh Bogotá Colombia
 https://textuploader.com/156zt/raw
-#EXTINF:-1 group-title="RADIO E",Radio Nuevo Tiempo Chile
+#EXTINF:-1 group-title="RADIO Español", Radio Nuevo Tiempo Chile
 http://sonando.us.digitalproserver.com/nuevotiempo
-#EXTINF:-1 group-title="RADIO E",Radio Nuevo Tiempo España
+#EXTINF:-1 group-title="RADIO Español", Radio Nuevo Tiempo España
 http://ample-01.radiojar.com/aesy2chkb
-#EXTINF:-1 group-title="RADIO I", Radio 3ABN Music Channel
+#EXTINF:-1 group-title="RADIO English", Radio 3ABN Music Channel
 http://war.str3am.com:7180/MC01.m3u
-#EXTINF:-1 group-title="RADIO E", Radio 3ABN LATINO [TV]
+#EXTINF:-1 group-title="RADIO Español", Radio 3ABN LATINO [TV]
 https://war.streamguys1.com:7185/Latino.m3u
-#EXTINF:-1 group-title="RADIO I",Radio Nuevo Tiempo Brasil
+#EXTINF:-1 group-title="RADIO Languages", Radio Nuevo Tiempo Brasil
 http://stream.novotempo.com/radio/smil:radionovotempo.smil/playlist.m3u
 
-#EXTINF:0 group-title="SERIES",Cómo Todo Comenzó 1/6: EL PREDICADOR REACIO
+#EXTINF:0  group-title="LECCION", Sábado 4 de mayo .mp3
+http://escuelasabatica.cl/2019/tri2/lecc6/4_may_2019.mp3
+#EXTINF:0  group-title="LECCION", Domingo 5 de mayo .mp3
+http://escuelasabatica.cl/2019/tri2/lecc6/5_may_2019.mp3
+#EXTINF:0  group-title="LECCION", Lunes 6 de mayo .mp3
+http://escuelasabatica.cl/2019/tri2/lecc6/6_may_2019.mp3
+#EXTINF:0  group-title="LECCION", Martes 7 de mayo .mp3
+http://escuelasabatica.cl/2019/tri2/lecc6/7_may_2019.mp3
+#EXTINF:0  group-title="LECCION", Miércoles 8 de mayo .mp3
+http://escuelasabatica.cl/2019/tri2/lecc6/8_may_2019.mp3
+#EXTINF:0  group-title="LECCION", Jueves 9 de mayo .mp3
+http://escuelasabatica.cl/2019/tri2/lecc6/9_may_2019.mp3
+#EXTINF:0  group-title="LECCION", Viernes 10 de mayo .mp3
+http://escuelasabatica.cl/2019/tri2/lecc6/10_may_2019.mp3
+
+#EXTINF:0 group-title="SERIES", Cómo Todo Comenzó 1/6: EL PREDICADOR REACIO MP4
 https://textuploader.com/db5h1/raw
-#EXTINF:0 group-title="SERIES",2/6: JESÚS VIENE PRONTO
+#EXTINF:0 group-title="SERIES", 2/6: JESÚS VIENE PRONTO MP4
 https://textuploader.com/db5h6/raw
-#EXTINF:0 group-title="SERIES",3/6: UN AMARGO CHASCO
+#EXTINF:0 group-title="SERIES", 3/6: UN AMARGO CHASCO MP4
 https://textuploader.com/db5xh/raw
-#EXTINF:0 group-title="SERIES",4/6: UNA PRUEBA DE FE
+#EXTINF:0 group-title="SERIES", 4/6: UNA PRUEBA DE FE MP4
 https://s3-us-west-2.amazonaws.com/adventist-telltheworld/es/Episodes/720/TTW_EPISODE_4_ES_720.mp4
-#EXTINF:0 group-title="SERIES",5/6: SE COLOCAN LOS CIMIENTOS
+#EXTINF:0 group-title="SERIES", 5/6: SE COLOCAN LOS CIMIENTOS MP4
 https://textuploader.com/db5xp/raw
-#EXTINF:0 group-title="SERIES",6/: DILO AL MUNDO
+#EXTINF:0 group-title="SERIES", 6/: DILO AL MUNDO MP4
 https://textuploader.com/db5xv/raw
 
-#EXTINF:0 group-title="Serie",Guardianes de la Flama 1/8 La Apostasia  
+#EXTINF:0 group-title="SERIES", Guardianes de la Flama 1/8 La Apostasia   MP4
 http://cdn.salemweb.net/godtube/2014/04/26/465734/465734_480p.mp4
-#EXTINF:0 group-title="SERIES",2/8 Los Reformadores
+#EXTINF:0 group-title="SERIES", 2/8 Los Reformadores MP4
 http://cdn.salemweb.net/godtube/2014/04/26/465735/465735_480p.mp4
-#EXTINF:0 group-title="SERIES",3/8 La Gran Expectativa
+#EXTINF:0 group-title="SERIES", 3/8 La Gran Expectativa MP4
 http://cdn.salemweb.net/godtube/2014/04/26/465737/465737_480p.mp4
-#EXTINF:0 group-title="SERIES",4/8 Despues del Chasco
+#EXTINF:0 group-title="SERIES", 4/8 Despues del Chasco MP4
 http://cdn.salemweb.net/godtube/2014/04/26/465736/465736_480p.mp4
-#EXTINF:0 group-title="SERIES",5/8 La Mas Debil de los Debiles
+#EXTINF:0 group-title="SERIES", 5/8 La Mas Debil de los Debiles MP4
 http://cdn.salemweb.net/godtube/2014/04/26/465740/465740_480p.mp4
-#EXTINF:0 group-title="SERIES",6/8 La Luz Menor Ampliando La Mayor
+#EXTINF:0 group-title="SERIES", 6/8 La Luz Menor Ampliando La Mayor MP4
 http://cdn.salemweb.net/godtube/2014/04/26/465741/465741_480p.mp4
-#EXTINF:0 group-title="SERIES",7/8 Un Saludable Estilo De Vida
+#EXTINF:0 group-title="SERIES", 7/8 Un Saludable Estilo De Vida MP4
 http://cdn.salemweb.net/godtube/2014/04/26/465742/465742_480p.mp4
-#EXTINF:0 group-title="SERIES",8/8 Elena De White . La Mujer
+#EXTINF:0 group-title="SERIES", 8/8 Elena De White . La Mujer MP4
 http://cdn.salemweb.net/godtube/2014/04/26/465743/465743_480p.mp4
 
-#EXTINF:-1  group-title="TV I", Novo Tempo Brasil
-http://stream2.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1  group-title="TV I", Hope Channel
+#EXTINF:-1  group-title="TV English", Hope Channel
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1  group-title="TV I", Hope Channel Church
+#EXTINF:-1  group-title="TV English", Hope Channel Church
 https://bcliveunivsecure-lh.akamaihd.net/i/Church_1@571271/index_696_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1  group-title="TV I", Hope Channel International
+#EXTINF:-1  group-title="TV English", Hope Channel International
 https://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/index_3192_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1  group-title="TV I", 3ABN Three Angels
+#EXTINF:-1  group-title="TV English", 3ABN Three Angels
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/index.m3u8
-#EXTINF:-1  group-title="TV I", 3ABN Dare to Dream 
+#EXTINF:-1  group-title="TV English", 3ABN Dare to Dream 
 https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
-#EXTINF:-1  group-title="TV I", 3ABN Français 
-https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/master.m3u8
-#EXTINF:-1  group-title="TV I", 3ABN Proclaim!
+#EXTINF:-1  group-title="TV English", 3ABN Proclaim!
 https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8
-#EXTINF:-1  group-title="TV I", 3ABN Russia 
-http://hls.tv.3angels.ru/stream.m3u8
-#EXTINF:-1  group-title="TV I", 3ABN International
+#EXTINF:-1  group-title="TV English", 3ABN International
 https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
-#EXTINF:-1  group-title="TV I", LLBN HisWord
+#EXTINF:-1  group-title="TV English", LLBN HisWord
 https://t01587-lh.akamaihd.net/i/t01587HisWord_1@692072/index_1400_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
-#EXTINF:-1  group-title="TV I", LLBN HisLight
+#EXTINF:-1  group-title="TV English", LLBN HisLight
 https://t01587-lh.akamaihd.net/i/t01587HisLight_1@692073/master.m3u8
-#EXTINF:-1  group-title="TV I", LLBN SmartLifeStyle
+#EXTINF:-1  group-title="TV English", LLBN SmartLifeStyle
 https://t01587-lh.akamaihd.net/i/t01587SmartLifeStyle_1@692079/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
-#EXTINF:-1  group-title="TV I", LLBN SouthAsia
-https://t01587-lh.akamaihd.net/i/t01587SouthAsia_1@692078/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
-#EXTINF:-1  group-title="TV I", LLBN Arabic
+
+#EXTINF:-1  group-title="TV Languages", 3ABN Français 
+https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/master.m3u8
+#EXTINF:-1  group-title="TV Languages", 3ABN Russia 
+http://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:-1  group-title="TV Languages", Hope Channel Polska
+http://stream.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
+#EXTINF:-1  group-title="TV Languages", LLBN Arabic
 https://t01587-lh.akamaihd.net/i/t01587Arabic_1@692074/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
-#EXTINF:-1  group-title="TV I", LLBN Chinese
+#EXTINF:-1  group-title="TV Languages", LLBN Chinese
 https://t01587-lh.akamaihd.net/i/t01587Chinese_1@692075/index_1250_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
-#EXTINF:-1  group-title="TV I", LLBN Korean
+#EXTINF:-1  group-title="TV Languages", LLBN Korean
 https://t01587-lh.akamaihd.net/i/t01587Korean_1@692076/index_1250_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
-#EXTINF:0  group-title="PELICULA", Porque creo en Dios creador 
-https://drive.google.com/uc?id=1LTee29nlh8yg-kEv9ptdLFO9NPQHF7da&export=download&authuser=0
+#EXTINF:-1  group-title="TV Languages", LLBN SouthAsia
+https://t01587-lh.akamaihd.net/i/t01587SouthAsia_1@692078/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
