@@ -1,13 +1,19 @@
 #EXTM3U
 
-#EXTINF:0  group-title="LECCION", LECC.6 El majestuoso canto de amor MP4
-https://dl.dropboxusercontent.com/s/n7cn07ifxho8z4g/LECC.6%20El%20majestuoso%20canto%20de%20amor%20.mp4
+#EXTINF:0  group-title="LECCION", LECC.9 - Tiempo de perder MP4
+https://dl.dropboxusercontent.com/s/vrheeerud6rkuvy/LECC.9%20-%20Tiempo%20de%20perder.mp4
 #EXTINF:-1 group-title="TV Español", 3ABN Latino
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-#EXTINF:-1 group-title="TV English", 3ABN Kids
+#EXTINF:-1 group-title="TV English", 3ABN KIDS
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 group-title="TV Español", LOGOS TV
 https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
+#EXTINF:-1 group-title="TV Español", LOGOS KIDS
+https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+#EXTINF:-1 group-title="TV Español", LOGOS SALUD
+https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
+#EXTINF:-1 group-title="TV Español", LOGOS ESTUDIO
+https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
 #EXTINF:-1 group-title="TV Español", Nuevo Tiempo
 http://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b2128000_slpor.m3u8
 #EXTINF:-1 group-title="TV Español", Esperanza TV
@@ -37,6 +43,8 @@ https://textuploader.com/156zt/raw
 http://sonando.us.digitalproserver.com/nuevotiempo
 #EXTINF:-1 group-title="RADIO Español", Radio Nuevo Tiempo España
 http://ample-01.radiojar.com/aesy2chkb
+#EXTINF:-1 group-title="RADIO Español", LOGOS RADIO
+https://streamer1.streamhost.org/salive/logosa/playlist.m3u8
 #EXTINF:-1 group-title="RADIO English", Radio 3ABN Music Channel
 http://war.str3am.com:7180/MC01.m3u
 #EXTINF:-1 group-title="RADIO Español", Radio 3ABN LATINO [TV]
@@ -44,20 +52,20 @@ https://war.streamguys1.com:7185/Latino.m3u
 #EXTINF:-1 group-title="RADIO Languages", Radio Nuevo Tiempo Brasil
 http://stream.novotempo.com/radio/smil:radionovotempo.smil/playlist.m3u
 
-#EXTINF:0  group-title="LECCION", Sábado 4 de mayo .mp3
-http://escuelasabatica.cl/2019/tri2/lecc6/4_may_2019.mp3
-#EXTINF:0  group-title="LECCION", Domingo 5 de mayo .mp3
-http://escuelasabatica.cl/2019/tri2/lecc6/5_may_2019.mp3
-#EXTINF:0  group-title="LECCION", Lunes 6 de mayo .mp3
-http://escuelasabatica.cl/2019/tri2/lecc6/6_may_2019.mp3
-#EXTINF:0  group-title="LECCION", Martes 7 de mayo .mp3
-http://escuelasabatica.cl/2019/tri2/lecc6/7_may_2019.mp3
-#EXTINF:0  group-title="LECCION", Miércoles 8 de mayo .mp3
-http://escuelasabatica.cl/2019/tri2/lecc6/8_may_2019.mp3
-#EXTINF:0  group-title="LECCION", Jueves 9 de mayo .mp3
-http://escuelasabatica.cl/2019/tri2/lecc6/9_may_2019.mp3
-#EXTINF:0  group-title="LECCION", Viernes 10 de mayo .mp3
-http://escuelasabatica.cl/2019/tri2/lecc6/10_may_2019.mp3
+#EXTINF:0  group-title="LECCION", Sábado 25 de mayo .mp3
+http://escuelasabatica.cl/2019/tri2/lecc9/25_may_2019.mp3
+#EXTINF:0  group-title="LECCION", Domingo 26 de mayo .mp3
+http://escuelasabatica.cl/2019/tri2/lecc9/26_may_2019.mp3
+#EXTINF:0  group-title="LECCION", Lunes 27 de mayo .mp3
+http://escuelasabatica.cl/2019/tri2/lecc9/27_may_2019.mp3
+#EXTINF:0  group-title="LECCION", Martes 28 de mayo .mp3
+http://escuelasabatica.cl/2019/tri2/lecc9/28_may_2019.mp3
+#EXTINF:0  group-title="LECCION", Miércoles 29 de mayo .mp3
+http://escuelasabatica.cl/2019/tri2/lecc9/29_may_2019.mp3
+#EXTINF:0  group-title="LECCION", Jueves 30 de mayo .mp3
+http://escuelasabatica.cl/2019/tri2/lecc9/30_may_2019.mp3
+#EXTINF:0  group-title="LECCION", Viernes 31 de mayo .mp3
+http://escuelasabatica.cl/2019/tri2/lecc9/31_may_2019.mp3
 
 #EXTINF:0 group-title="SERIES", Cómo Todo Comenzó 1/6: EL PREDICADOR REACIO MP4
 https://textuploader.com/db5h1/raw
