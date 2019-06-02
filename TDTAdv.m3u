@@ -6,10 +6,10 @@ https://dl.dropboxusercontent.com/s/vrheeerud6rkuvy/LECC.9%20-%20Tiempo%20de%20p
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 #EXTINF:-1 group-title="TV English", 3ABN KIDS
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 group-title="TV Español", LOGOS TV
-https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
 #EXTINF:-1 group-title="TV Español", LOGOS KIDS
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+#EXTINF:-1 group-title="TV Español", LOGOS TV
+https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
 #EXTINF:-1 group-title="TV Español", LOGOS SALUD
 https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
 #EXTINF:-1 group-title="TV Español", LOGOS ESTUDIO
