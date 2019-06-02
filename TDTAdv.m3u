@@ -52,20 +52,20 @@ https://war.streamguys1.com:7185/Latino.m3u
 #EXTINF:-1 group-title="RADIO Languages", Radio Nuevo Tiempo Brasil
 http://stream.novotempo.com/radio/smil:radionovotempo.smil/playlist.m3u
 
-#EXTINF:0  group-title="LECCION", Sábado 25 de mayo .mp3
-http://escuelasabatica.cl/2019/tri2/lecc9/25_may_2019.mp3
-#EXTINF:0  group-title="LECCION", Domingo 26 de mayo .mp3
-http://escuelasabatica.cl/2019/tri2/lecc9/26_may_2019.mp3
-#EXTINF:0  group-title="LECCION", Lunes 27 de mayo .mp3
-http://escuelasabatica.cl/2019/tri2/lecc9/27_may_2019.mp3
-#EXTINF:0  group-title="LECCION", Martes 28 de mayo .mp3
-http://escuelasabatica.cl/2019/tri2/lecc9/28_may_2019.mp3
-#EXTINF:0  group-title="LECCION", Miércoles 29 de mayo .mp3
-http://escuelasabatica.cl/2019/tri2/lecc9/29_may_2019.mp3
-#EXTINF:0  group-title="LECCION", Jueves 30 de mayo .mp3
-http://escuelasabatica.cl/2019/tri2/lecc9/30_may_2019.mp3
-#EXTINF:0  group-title="LECCION", Viernes 31 de mayo .mp3
-http://escuelasabatica.cl/2019/tri2/lecc9/31_may_2019.mp3
+#EXTINF:0  group-title="LECCION", Sábado 1º de junio .mp3
+http://escuelasabatica.cl/2019/tri2/lecc10/1_jun_2019.mp3
+#EXTINF:0  group-title="LECCION", Domingo 2 de junio .mp3
+http://escuelasabatica.cl/2019/tri2/lecc10/2_jun_2019.mp3
+#EXTINF:0  group-title="LECCION", Lunes 3 de junio .mp3
+http://escuelasabatica.cl/2019/tri2/lecc10/3_jun_2019.mp3
+#EXTINF:0  group-title="LECCION", Martes 4 de junio .mp3
+http://escuelasabatica.cl/2019/tri2/lecc10/4_jun_2019.mp3
+#EXTINF:0  group-title="LECCION", Miércoles 5 de junio .mp3
+http://escuelasabatica.cl/2019/tri2/lecc10/5_jun_2019.mp3
+#EXTINF:0  group-title="LECCION", Jueves 6 de junio .mp3
+http://escuelasabatica.cl/2019/tri2/lecc10/6_jun_2019.mp3
+#EXTINF:0  group-title="LECCION", Viernes 7 de junio .mp3
+http://escuelasabatica.cl/2019/tri2/lecc10/7_jun_2019.mp3
 
 #EXTINF:0 group-title="SERIES", Cómo Todo Comenzó 1/6: EL PREDICADOR REACIO MP4
 https://textuploader.com/db5h1/raw
