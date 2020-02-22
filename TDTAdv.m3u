@@ -1,106 +1,81 @@
-#EXTM3U
-
-#EXTINF:0  group-title="LECCION", LECC.9 - Tiempo de perder MP4
-https://dl.dropboxusercontent.com/s/vrheeerud6rkuvy/LECC.9%20-%20Tiempo%20de%20perder.mp4
-#EXTINF:-1 group-title="TV Español", 3ABN Latino
+#EXTINF:-1 group-title="1·TV Español", 3ABN Latino
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 #EXTINF:-1 group-title="TV English", 3ABN KIDS
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 group-title="TV Español", LOGOS KIDS
+#EXTINF:-1 group-title="1·TV Español", LOGOS KIDS
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
-#EXTINF:-1 group-title="TV Español", LOGOS TV
+#EXTINF:-1 group-title="1·TV Español", LOGOS TV
 https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
-#EXTINF:-1 group-title="TV Español", LOGOS SALUD
+#EXTINF:-1 group-title="1·TV Español", LOGOS SALUD
 https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
-#EXTINF:-1 group-title="TV Español", LOGOS ESTUDIO
+#EXTINF:-1 group-title="1·TV Español", LOGOS ESTUDIO
 https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
-#EXTINF:-1 group-title="TV Español", Nuevo Tiempo
+#EXTINF:-1 group-title="1·TV Español", Nuevo Tiempo
 http://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b2128000_slpor.m3u8
-#EXTINF:-1 group-title="TV Español", Esperanza TV
+#EXTINF:-1 group-title="1·TV Español", Esperanza TV
 https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/index_1096_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="TV Español", Esperanza TV Costa Rica
+#EXTINF:-1 group-title="1·TV Español", Esperanza TV Costa Rica
 http://tv.esperanzatvcr.org:1935/WEB/WEB/playlist.m3u8
-#EXTINF:-1 group-title="TV Español", Esperanza TV Panama
+#EXTINF:-1 group-title="1·TV Español", Esperanza TV Panama
 http://ca1.ministeriotv.com:1935/1521/1521/playlist.m3u8
-#EXTINF:-1 group-title="TV Español", Esperanza TV COLOMBIA 
-http://184.173.179.163:1935/8042/8042/playlist.m3u8
-#EXTINF:-1 group-title="TV Español", Esperanza TV interamerica
+#EXTINF:-1 group-title="1·TV Español", Esperanza TV interamerica
 https://bcliveunivsecure-lh.akamaihd.net/i/IADSpanish_1@572888/master.m3u8
-#EXTINF:-1 group-title="TV Español", LLBN Latino
+#EXTINF:-1 group-title="1·TV Español", Montemorelos TV
+https://59802217c6db4.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
+#EXTINF:-1 group-title="1·TV Español", LLBN Latino
 https://textuploader.com/dbdbm/raw
-#EXTINF:-1 group-title="TV Español", Red ADVenir
+#EXTINF:-1 group-title="1·TV Español", Red ADVenir
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 #EXTINF:-1  group-title="TV Languages", Novo Tempo Brasil
 http://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b4128000_slpor.m3u8
 
-#EXTINF:-1 group-title="RADIO Español", Radio Vision Celestial
-https://textuploader.com/dbd3o/raw
-#EXTINF:-1 group-title="RADIO Español", Radio Esperanza Colombia 
-https://textuploader.com/dbd3j/raw
-#EXTINF:-1 group-title="RADIO Español", Radio Siloh Bogotá Colombia
-https://textuploader.com/156zt/raw
-#EXTINF:-1 group-title="RADIO Español", Radio Nuevo Tiempo Chile
+#EXTINF:-1 group-title="2·RADIO Español", Radio Esperanza Colombia 
+http://bit.ly/2GVBcWg
+#EXTINF:-1 group-title="2·RADIO Español", Radio Siloh Bogotá Colombia
+http://bit.ly/2M8MzhA
+#EXTINF:-1 group-title="2·RADIO Español", Radio Vision Celestial
+http://bit.ly/2Kq4DlA
+#EXTINF:-1 group-title="2·RADIO Español", Radio Nuevo Tiempo Chile
 http://sonando.us.digitalproserver.com/nuevotiempo
-#EXTINF:-1 group-title="RADIO Español", Radio Nuevo Tiempo España
+#EXTINF:-1 group-title="2·RADIO Español", Radio Nuevo Tiempo España
 http://ample-01.radiojar.com/aesy2chkb
-#EXTINF:-1 group-title="RADIO Español", LOGOS RADIO
-https://streamer1.streamhost.org/salive/logosa/playlist.m3u8
 #EXTINF:-1 group-title="RADIO English", Radio 3ABN Music Channel
-http://war.str3am.com:7180/MC01.m3u
-#EXTINF:-1 group-title="RADIO Español", Radio 3ABN LATINO [TV]
-https://war.streamguys1.com:7185/Latino.m3u
+http://war.str3am.com:7180/MC01
 #EXTINF:-1 group-title="RADIO Languages", Radio Nuevo Tiempo Brasil
 http://stream.novotempo.com/radio/smil:radionovotempo.smil/playlist.m3u
 
-#EXTINF:0  group-title="LECCION", Sábado 1º de junio .mp3
-http://escuelasabatica.cl/2019/tri2/lecc10/1_jun_2019.mp3
-#EXTINF:0  group-title="LECCION", Domingo 2 de junio .mp3
-http://escuelasabatica.cl/2019/tri2/lecc10/2_jun_2019.mp3
-#EXTINF:0  group-title="LECCION", Lunes 3 de junio .mp3
-http://escuelasabatica.cl/2019/tri2/lecc10/3_jun_2019.mp3
-#EXTINF:0  group-title="LECCION", Martes 4 de junio .mp3
-http://escuelasabatica.cl/2019/tri2/lecc10/4_jun_2019.mp3
-#EXTINF:0  group-title="LECCION", Miércoles 5 de junio .mp3
-http://escuelasabatica.cl/2019/tri2/lecc10/5_jun_2019.mp3
-#EXTINF:0  group-title="LECCION", Jueves 6 de junio .mp3
-http://escuelasabatica.cl/2019/tri2/lecc10/6_jun_2019.mp3
-#EXTINF:0  group-title="LECCION", Viernes 7 de junio .mp3
-http://escuelasabatica.cl/2019/tri2/lecc10/7_jun_2019.mp3
-
-#EXTINF:0 group-title="SERIES", Cómo Todo Comenzó 1/6: EL PREDICADOR REACIO MP4
+#EXTINF:0 group-title="4·SERIES", Cómo Todo Comenzó 1/6: EL PREDICADOR REACIO MP4
 https://textuploader.com/db5h1/raw
-#EXTINF:0 group-title="SERIES", 2/6: JESÚS VIENE PRONTO MP4
+#EXTINF:0 group-title="4·SERIES", 2/6: JESÚS VIENE PRONTO MP4
 https://textuploader.com/db5h6/raw
-#EXTINF:0 group-title="SERIES", 3/6: UN AMARGO CHASCO MP4
+#EXTINF:0 group-title="4·SERIES", 3/6: UN AMARGO CHASCO MP4
 https://textuploader.com/db5xh/raw
-#EXTINF:0 group-title="SERIES", 4/6: UNA PRUEBA DE FE MP4
+#EXTINF:0 group-title="4·SERIES", 4/6: UNA PRUEBA DE FE MP4
 https://s3-us-west-2.amazonaws.com/adventist-telltheworld/es/Episodes/720/TTW_EPISODE_4_ES_720.mp4
-#EXTINF:0 group-title="SERIES", 5/6: SE COLOCAN LOS CIMIENTOS MP4
+#EXTINF:0 group-title="4·SERIES", 5/6: SE COLOCAN LOS CIMIENTOS MP4
 https://textuploader.com/db5xp/raw
-#EXTINF:0 group-title="SERIES", 6/: DILO AL MUNDO MP4
+#EXTINF:0 group-title="4·SERIES", 6/6: DILO AL MUNDO MP4
 https://textuploader.com/db5xv/raw
 
-#EXTINF:0 group-title="SERIES", Guardianes de la Flama 1/8 La Apostasia   MP4
+#EXTINF:0 group-title="4·SERIES", Guardianes de la Flama 1/8 La Apostasia   MP4
 http://cdn.salemweb.net/godtube/2014/04/26/465734/465734_480p.mp4
-#EXTINF:0 group-title="SERIES", 2/8 Los Reformadores MP4
+#EXTINF:0 group-title="4·SERIES", 2/8 Los Reformadores MP4
 http://cdn.salemweb.net/godtube/2014/04/26/465735/465735_480p.mp4
-#EXTINF:0 group-title="SERIES", 3/8 La Gran Expectativa MP4
+#EXTINF:0 group-title="4·SERIES", 3/8 La Gran Expectativa MP4
 http://cdn.salemweb.net/godtube/2014/04/26/465737/465737_480p.mp4
-#EXTINF:0 group-title="SERIES", 4/8 Despues del Chasco MP4
+#EXTINF:0 group-title="4·SERIES", 4/8 Despues del Chasco MP4
 http://cdn.salemweb.net/godtube/2014/04/26/465736/465736_480p.mp4
-#EXTINF:0 group-title="SERIES", 5/8 La Mas Debil de los Debiles MP4
+#EXTINF:0 group-title="4·SERIES", 5/8 La Mas Debil de los Debiles MP4
 http://cdn.salemweb.net/godtube/2014/04/26/465740/465740_480p.mp4
-#EXTINF:0 group-title="SERIES", 6/8 La Luz Menor Ampliando La Mayor MP4
+#EXTINF:0 group-title="4·SERIES", 6/8 La Luz Menor Ampliando La Mayor MP4
 http://cdn.salemweb.net/godtube/2014/04/26/465741/465741_480p.mp4
-#EXTINF:0 group-title="SERIES", 7/8 Un Saludable Estilo De Vida MP4
+#EXTINF:0 group-title="4·SERIES", 7/8 Un Saludable Estilo De Vida MP4
 http://cdn.salemweb.net/godtube/2014/04/26/465742/465742_480p.mp4
-#EXTINF:0 group-title="SERIES", 8/8 Elena De White . La Mujer MP4
+#EXTINF:0 group-title="4·SERIES", 8/8 Elena De White . La Mujer MP4
 http://cdn.salemweb.net/godtube/2014/04/26/465743/465743_480p.mp4
 
 #EXTINF:-1  group-title="TV English", Hope Channel
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1  group-title="TV English", Hope Channel Church
-https://bcliveunivsecure-lh.akamaihd.net/i/Church_1@571271/index_696_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1  group-title="TV English", Hope Channel International
 https://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/index_3192_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1  group-title="TV English", 3ABN Three Angels
