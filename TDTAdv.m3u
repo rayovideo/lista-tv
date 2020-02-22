@@ -10,6 +10,8 @@ https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
 https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
 #EXTINF:-1 group-title="1·TV Español", LOGOS ESTUDIO
 https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
+#EXTINF:-1 group-title="1·TV Español", SUM TV Latino
+https://uni10rtmp.tulix.tv/ssstv2/smil:ssstv2web.smil/playlist.m3u8
 #EXTINF:-1 group-title="1·TV Español", Nuevo Tiempo
 http://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b2128000_slpor.m3u8
 #EXTINF:-1 group-title="1·TV Español", Esperanza TV
@@ -86,6 +88,8 @@ https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8
 #EXTINF:-1  group-title="TV English", 3ABN International
 https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
+#EXTINF:-1  group-title="TV English", SUM TV 
+https://uni10rtmp.tulix.tv/ssstv1/smil:ssstv1web.smil/playlist.m3u8
 #EXTINF:-1  group-title="TV English", LLBN HisWord
 https://t01587-lh.akamaihd.net/i/t01587HisWord_1@692072/index_1400_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
 #EXTINF:-1  group-title="TV English", LLBN HisLight
