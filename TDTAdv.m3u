@@ -97,6 +97,8 @@ https://t01587-lh.akamaihd.net/i/t01587SmartLifeStyle_1@692079/index_1200_av-p.m
 https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/master.m3u8
 #EXTINF:-1  group-title="TV Languages", 3ABN Russia 
 http://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:-1  group-title="TV Languages", Espérance TV InterAmérique
+http://bcliveuniv-lh.akamaihd.net/i/IADFrench_1@414083/master.m3u8
 #EXTINF:-1  group-title="TV Languages", Hope Channel Polska
 http://stream.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
 #EXTINF:-1  group-title="TV Languages", LLBN Arabic
