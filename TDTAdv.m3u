@@ -1,5 +1,4 @@
-#EXTINF:-1 group-title="1·TV Español", Esperanza TV Colombia
-https://59d39900ebfb8.streamlock.net/8296/8296/playlist.m3u8
+
 #EXTINF:-1 group-title="1·TV Español", 3ABN Latino
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 #EXTINF:-1 group-title="TV English", 3ABN KIDS
@@ -18,6 +17,8 @@ https://uni10rtmp.tulix.tv/ssstv2/smil:ssstv2web.smil/playlist.m3u8
 http://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b2128000_slpor.m3u8
 #EXTINF:-1 group-title="1·TV Español", Esperanza TV
 https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/index_1096_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="1·TV Español", Esperanza TV Colombia
+https://59d39900ebfb8.streamlock.net/8296/8296/playlist.m3u8
 #EXTINF:-1 group-title="1·TV Español", Esperanza TV Costa Rica
 http://tv.esperanzatvcr.org:1935/WEB/WEB/playlist.m3u8
 #EXTINF:-1 group-title="1·TV Español", Esperanza TV Panama
