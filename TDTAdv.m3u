@@ -96,7 +96,7 @@ https://uni10rtmp.tulix.tv/ssstv1/smil:ssstv1web.smil/playlist.m3u8
 #EXTINF:-1  group-title="TV English", LLBN HisWord
 https://t01587-lh.akamaihd.net/i/t01587HisWord_1@692072/index_1400_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
 #EXTINF:-1  group-title="TV English", LLBN HisLight
-https://t01587-lh.akamaihd.net/i/t01587HisLight_1@692073/master.m3u8
+https://t01587-lh.akamaihd.net/i/t01587HisLight_1@692073/index_1400_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
 #EXTINF:-1  group-title="TV English", LLBN SmartLifeStyle
 https://t01587-lh.akamaihd.net/i/t01587SmartLifeStyle_1@692079/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
 
