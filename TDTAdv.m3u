@@ -49,34 +49,34 @@ http://war.str3am.com:7180/MC01
 #EXTINF:-1 group-title="RADIO Languages", Radio Nuevo Tiempo Brasil
 http://stream.novotempo.com/radio/smil:radionovotempo.smil/playlist.m3u
 
-#EXTINF:0 group-title="4·SERIES", Cómo Todo Comenzó 1/6: EL PREDICADOR REACIO MP4
-https://textuploader.com/db5h1/raw
-#EXTINF:0 group-title="4·SERIES", 2/6: JESÚS VIENE PRONTO MP4
-https://textuploader.com/db5h6/raw
-#EXTINF:0 group-title="4·SERIES", 3/6: UN AMARGO CHASCO MP4
-https://textuploader.com/db5xh/raw
-#EXTINF:0 group-title="4·SERIES", 4/6: UNA PRUEBA DE FE MP4
-https://s3-us-west-2.amazonaws.com/adventist-telltheworld/es/Episodes/720/TTW_EPISODE_4_ES_720.mp4
-#EXTINF:0 group-title="4·SERIES", 5/6: SE COLOCAN LOS CIMIENTOS MP4
-https://textuploader.com/db5xp/raw
-#EXTINF:0 group-title="4·SERIES", 6/6: DILO AL MUNDO MP4
-https://textuploader.com/db5xv/raw
+#EXTINF:0 group-title="4·SERIES", 1/6 Cómo Todo Comenzó : EL PREDICADOR REACIO mp4
+https://txt.do/db5h1/raw
+#EXTINF:0 group-title="4·SERIES", 2/6: JESÚS VIENE PRONTO mp4
+https://txt.do/db5h6/raw
+#EXTINF:0 group-title="4·SERIES", 3/6: UN AMARGO CHASCO mp4
+https://txt.do/db5xh/raw
+#EXTINF:0 group-title="4·SERIES", 4/6: UNA PRUEBA DE FE mp4
+https://txt.do/db5xg/raw
+#EXTINF:0 group-title="4·SERIES", 5/6: SE COLOCAN LOS CIMIENTOS mp4
+https://txt.do/db5xp/raw
+#EXTINF:0 group-title="4·SERIES", 6/6: DILO AL MUNDO mp4
+https://txt.do/db5xv/raw
 
-#EXTINF:0 group-title="4·SERIES", Guardianes de la Flama 1/8 La Apostasia   MP4
+#EXTINF:0 group-title="4·SERIES", 1/8 Guardianes de la Flama: La Apostasia   mp4
 http://cdn.salemweb.net/godtube/2014/04/26/465734/465734_480p.mp4
-#EXTINF:0 group-title="4·SERIES", 2/8 Los Reformadores MP4
+#EXTINF:0 group-title="4·SERIES", 2/8 Los Reformadores mp4
 http://cdn.salemweb.net/godtube/2014/04/26/465735/465735_480p.mp4
-#EXTINF:0 group-title="4·SERIES", 3/8 La Gran Expectativa MP4
+#EXTINF:0 group-title="4·SERIES", 3/8 La Gran Expectativa mp4
 http://cdn.salemweb.net/godtube/2014/04/26/465737/465737_480p.mp4
-#EXTINF:0 group-title="4·SERIES", 4/8 Despues del Chasco MP4
+#EXTINF:0 group-title="4·SERIES", 4/8 Despues del Chasco mp4
 http://cdn.salemweb.net/godtube/2014/04/26/465736/465736_480p.mp4
-#EXTINF:0 group-title="4·SERIES", 5/8 La Mas Debil de los Debiles MP4
+#EXTINF:0 group-title="4·SERIES", 5/8 La Mas Debil de los Debiles mp4
 http://cdn.salemweb.net/godtube/2014/04/26/465740/465740_480p.mp4
-#EXTINF:0 group-title="4·SERIES", 6/8 La Luz Menor Ampliando La Mayor MP4
+#EXTINF:0 group-title="4·SERIES", 6/8 La Luz Menor Ampliando La Mayor mp4
 http://cdn.salemweb.net/godtube/2014/04/26/465741/465741_480p.mp4
-#EXTINF:0 group-title="4·SERIES", 7/8 Un Saludable Estilo De Vida MP4
+#EXTINF:0 group-title="4·SERIES", 7/8 Un Saludable Estilo De Vida mp4
 http://cdn.salemweb.net/godtube/2014/04/26/465742/465742_480p.mp4
-#EXTINF:0 group-title="4·SERIES", 8/8 Elena De White . La Mujer MP4
+#EXTINF:0 group-title="4·SERIES", 8/8 Elena De White . La Mujer mp4
 http://cdn.salemweb.net/godtube/2014/04/26/465743/465743_480p.mp4
 
 #EXTINF:-1  group-title="TV English", Hope Channel
