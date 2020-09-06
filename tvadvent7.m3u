@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1 group-title="1·TV Español", 3ABN Latino
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/SQs/chunklist.m3u8
+#EXTINF:-1 group-title="TV English", 3ABN Praise Him Music 
+https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
+#EXTINF:-1 group-title="TV English", 3ABN KIDS
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 group-title="1·TV Español", LOGOS KIDS
+https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+#EXTINF:-1 group-title="1·TV Español", LOGOS TV
+https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
+#EXTINF:-1 group-title="1·TV Español", LOGOS SALUD
+https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
+#EXTINF:-1 group-title="1·TV Español", LOGOS ESTUDIO
+https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
+#EXTINF:-1 group-title="1·TV Español", SUM TV Latino
+https://uni10rtmp.tulix.tv/ssstv2/smil:ssstv2web.smil/playlist.m3u8
+#EXTINF:-1 group-title="1·TV Español", Esperanza TV
+https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/master.m3u8
+#EXTINF:-1 group-title="1·TV Español", Esperanza TV Costa Rica
+http://tv.esperanzatvcr.org:1935/WEB/WEB/playlist.m3u8
+#EXTINF:-1 group-title="1·TV Español", Esperanza TV interamerica
+https://bcliveunivsecure-lh.akamaihd.net/i/IADSpanish_1@572888/master.m3u8
+#EXTINF:-1 group-title="1·TV Español", Nuevo Tiempo
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8
+#EXTINF:-1  group-title="TV Languages", Novo Tempo Brasil
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b2128000_slpor.m3u8
+#EXTINF:-1 group-title="1·TV Español", Montemorelos TV
+https://59802217c6db4.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
+#EXTINF:-1 group-title="1·TV Español", LLBN Latino
+https://textuploader.com/dbdbm/raw
+#EXTINF:-1 group-title="1·TV Español", Red ADVenir
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
+
+#EXTINF:0 group-title="4·SERIES", 1/6 Cómo Todo Comenzó : EL PREDICADOR REACIO mp4
+https://txt.do/db5h1/raw
+#EXTINF:0 group-title="4·SERIES", 2/6: JESÚS VIENE PRONTO mp4
+https://txt.do/db5h6/raw
+#EXTINF:0 group-title="4·SERIES", 3/6: UN AMARGO CHASCO mp4
+https://txt.do/db5xh/raw
+#EXTINF:0 group-title="4·SERIES", 4/6: UNA PRUEBA DE FE mp4
+https://txt.do/db5xg/raw
+#EXTINF:0 group-title="4·SERIES", 5/6: SE COLOCAN LOS CIMIENTOS mp4
+https://txt.do/db5xp/raw
+#EXTINF:0 group-title="4·SERIES", 6/6: DILO AL MUNDO mp4
+https://txt.do/db5xv/raw
+
+#EXTINF:0 group-title="4·SERIES", 1/8 Guardianes de la Flama: La Apostasia   mp4
+http://cdn.salemweb.net/godtube/2014/04/26/465734/465734_480p.mp4
+#EXTINF:0 group-title="4·SERIES", 2/8 Los Reformadores mp4
+http://cdn.salemweb.net/godtube/2014/04/26/465735/465735_480p.mp4
+#EXTINF:0 group-title="4·SERIES", 3/8 La Gran Expectativa mp4
+http://cdn.salemweb.net/godtube/2014/04/26/465737/465737_480p.mp4
+#EXTINF:0 group-title="4·SERIES", 4/8 Despues del Chasco mp4
+http://cdn.salemweb.net/godtube/2014/04/26/465736/465736_480p.mp4
+#EXTINF:0 group-title="4·SERIES", 5/8 La Mas Debil de los Debiles mp4
+http://cdn.salemweb.net/godtube/2014/04/26/465740/465740_480p.mp4
+#EXTINF:0 group-title="4·SERIES", 6/8 La Luz Menor Ampliando La Mayor mp4
+http://cdn.salemweb.net/godtube/2014/04/26/465741/465741_480p.mp4
+#EXTINF:0 group-title="4·SERIES", 7/8 Un Saludable Estilo De Vida mp4
+http://cdn.salemweb.net/godtube/2014/04/26/465742/465742_480p.mp4
+#EXTINF:0 group-title="4·SERIES", 8/8 Elena De White . La Mujer mp4
+http://cdn.salemweb.net/godtube/2014/04/26/465743/465743_480p.mp4
+
+#EXTINF:-1  group-title="TV English", Hope Channel
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1  group-title="TV English", Hope Channel International
+https://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/index_3192_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1  group-title="TV English", 3ABN Three Angels
+https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/index.m3u8
+#EXTINF:-1  group-title="TV English", 3ABN Dare to Dream 
+https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
+#EXTINF:-1  group-title="TV English", 3ABN Proclaim!
+https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8
+#EXTINF:-1  group-title="TV English", 3ABN International
+https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
+#EXTINF:-1  group-title="TV English", SUM TV 
+https://uni10rtmp.tulix.tv/ssstv1/smil:ssstv1web.smil/playlist.m3u8
+#EXTINF:-1  group-title="TV English", Amazing Discoveries TV 
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1  group-title="TV English", Mission TV 
+http://stream.missiontv.com:1935/live/missiontv_720p/playlist.m3u8
+#EXTINF:-1  group-title="TV English", LLBN HisWord
+https://t01587-lh.akamaihd.net/i/t01587HisWord_1@692072/index_1400_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+#EXTINF:-1  group-title="TV English", LLBN HisLight
+https://t01587-lh.akamaihd.net/i/t01587HisLight_1@692073/index_1400_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+#EXTINF:-1  group-title="TV English", LLBN SmartLifeStyle
+https://t01587-lh.akamaihd.net/i/t01587SmartLifeStyle_1@692079/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+
+#EXTINF:-1  group-title="TV Languages", 3ABN Français 
+https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/master.m3u8
+#EXTINF:-1  group-title="TV Languages", 3ABN Russia 
+http://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:-1  group-title="TV Languages", Espérance TV InterAmérique
+http://bcliveuniv-lh.akamaihd.net/i/IADFrench_1@414083/master.m3u8
+#EXTINF:-1  group-title="TV Languages", Hope Channel Polska
+http://stream.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
+#EXTINF:-1  group-title="TV Languages", LLBN Arabic
+https://t01587-lh.akamaihd.net/i/t01587Arabic_1@692074/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+#EXTINF:-1  group-title="TV Languages", LLBN Chinese
+https://t01587-lh.akamaihd.net/i/t01587Chinese_1@692075/index_1250_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+#EXTINF:-1  group-title="TV Languages", LLBN Korean
+https://t01587-lh.akamaihd.net/i/t01587Korean_1@692076/index_1250_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+#EXTINF:-1  group-title="TV Languages", LLBN SouthAsia
+https://t01587-lh.akamaihd.net/i/t01587SouthAsia_1@692078/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+#EXTINF:-1 group-title="1·TV Español", LOCAL
+http://192.168.1.200:8080
