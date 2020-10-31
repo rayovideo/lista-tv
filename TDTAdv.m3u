@@ -19,8 +19,6 @@ https://uni10rtmp.tulix.tv/ssstv2/smil:ssstv2web.smil/playlist.m3u8
 https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/master.m3u8
 #EXTINF:-1 group-title="1·TV Español", Esperanza TV Costa Rica
 http://tv.esperanzatvcr.org:1935/WEB/WEB/playlist.m3u8
-#EXTINF:-1 group-title="1·TV Español", Esperanza TV Panama
-http://ca1.ministeriotv.com:1935/1521/1521/playlist.m3u8
 #EXTINF:-1 group-title="1·TV Español", Esperanza TV interamerica
 https://bcliveunivsecure-lh.akamaihd.net/i/IADSpanish_1@572888/master.m3u8
 #EXTINF:-1 group-title="1·TV Español", Nuevo Tiempo
