@@ -45,24 +45,32 @@ https://ntplay.com/aovivo
 http://umtv.mx/ver-umtv-envivo/
 
 #EXTINF:-1 group-title="1·TV Español", LLBN Latino
-https://www.llbnlatino.tv/
+https://www.llbn.tv/latino
 
 #EXTINF:-1 group-title="1·TV Español", Red ADVenir
 http://redadvenir.org/
 
+
 #EXTINF:-1 group-title="2·RADIO Español", Radio Esperanza Colombia 
+https://esperanzacolombiaradio.com/
 
 #EXTINF:-1 group-title="2·RADIO Español", Radio Siloh Bogotá Colombia
+https://www.silohradio.com/
 
 #EXTINF:-1 group-title="2·RADIO Español", Radio Vision Celestial
+https://visioncelestialradio.com/
 
 #EXTINF:-1 group-title="2·RADIO Español", Radio Nuevo Tiempo Chile
+https://www.nuevotiempo.org/envivo/radio/
 
 #EXTINF:-1 group-title="2·RADIO Español", Radio Nuevo Tiempo España
+https://hopemedia.es/
 
 #EXTINF:-1 group-title="RADIO English", Radio 3ABN Music Channel
+https://3abn.org/3abn-music-channel.html
 
 #EXTINF:-1 group-title="RADIO Languages", Radio Nuevo Tiempo Brasil
+https://www.novotempo.com/radioaovivo/
 
 
 #EXTINF:0 group-title="4·SERIES", 1/6 Cómo Todo Comenzó : EL PREDICADOR REACIO mp4
@@ -96,6 +104,7 @@ http://redadvenir.org/
 
 
 #EXTINF:-1  group-title="TV English", Hope Channel
+https://www.hopetv.org/watch/hope-channel/
 
 #EXTINF:-1  group-title="TV English", Hope Channel International
 https://www.hopechannelinteramerica.org/english/streaming/
@@ -112,18 +121,23 @@ https://3abn.org/all-streams/proclaim.html
 #EXTINF:-1  group-title="TV English", 3ABN International
 https://3abn.org/all-streams/international.html
 
-#EXTINF:-1  group-title="TV English", SUM TV 
+#EXTINF:-1  group-title="TV English", SUM TV
+https://www.sumtv.org/watch.html
 
 #EXTINF:-1  group-title="TV English", Amazing Discoveries TV 
+https://adtv.watch/online
 
 #EXTINF:-1  group-title="TV English", Mission TV 
+https://missiontv.com/
 
 #EXTINF:-1  group-title="TV English", LLBN HisWord
+https://www.llbn.tv/his-word
 
 #EXTINF:-1  group-title="TV English", LLBN HisLight
+https://www.llbn.tv/his-light
 
 #EXTINF:-1  group-title="TV English", LLBN SmartLifeStyle
-
+https://www.llbn.tv/smartlifestyletv
 
 #EXTINF:-1  group-title="TV Languages", 3ABN Français 
 https://3abn.org/all-streams/french.html
@@ -132,16 +146,22 @@ https://3abn.org/all-streams/french.html
 https://3abn.org/all-streams/russia.html
 
 #EXTINF:-1  group-title="TV Languages", Espérance TV InterAmérique
+http://esperancetv.org/direct-tv/
 
 #EXTINF:-1  group-title="TV Languages", Hope Channel Polska
+https://hopechannel.pl/telewizja-on-line/
 
 #EXTINF:-1  group-title="TV Languages", LLBN Arabic
+https://www.llbn.tv/arabic
 
 #EXTINF:-1  group-title="TV Languages", LLBN Chinese
+https://www.llbn.tv/chinese
 
 #EXTINF:-1  group-title="TV Languages", LLBN Korean
+https://www.llbn.tv/korean
 
 #EXTINF:-1  group-title="TV Languages", LLBN SouthAsia
+https://www.llbn.tv/southasia
 
 #EXTINF:-1 group-title="1·TV Español", 192.168.1.200:8080
 http://192.168.1.200:8080
