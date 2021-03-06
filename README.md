@@ -163,6 +163,9 @@ https://www.llbn.tv/korean
 #EXTINF:-1  group-title="TV Languages", LLBN SouthAsia
 https://www.llbn.tv/southasia
 
-#EXTINF:-1 group-title="1·TV Español", 192.168.1.200:8080
-http://192.168.1.200:8080
+#EXTINF:-1 group-title="1·TV Español", 192.168.0.200:7777
+http://192.168.0.200:7777
+
+#EXTINF:-1 group-title="1·TV Español", 192.168.1.200:7777
+http://192.168.1.200:7777
 
