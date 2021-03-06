@@ -120,5 +120,7 @@ https://t01587-lh.akamaihd.net/i/t01587Chinese_1@692075/index_1250_av-p.m3u8?sd=
 https://t01587-lh.akamaihd.net/i/t01587Korean_1@692076/index_1250_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
 #EXTINF:-1  group-title="TV Languages", LLBN SouthAsia
 https://t01587-lh.akamaihd.net/i/t01587SouthAsia_1@692078/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
-#EXTINF:-1 group-title="1·TV Español", 192.168.1.200:8080
-http://192.168.1.200:8080
+#EXTINF:-1 group-title="1·TV Español", 192.168.0.200:7777
+http://192.168.0.200:7777
+#EXTINF:-1 group-title="1·TV Español", 192.168.1.200:7777
+http://192.168.1.200:7777
