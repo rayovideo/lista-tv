@@ -65,9 +65,9 @@ http://cdn.salemweb.net/godtube/2014/04/26/465742/465742_480p.mp4
 http://cdn.salemweb.net/godtube/2014/04/26/465743/465743_480p.mp4
 
 #EXTINF:-1  group-title="TV English", Hope Channel
-https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/5d6c7f68a82b4c4885014e6f813b7bd9/manifest.m3u8
 #EXTINF:-1  group-title="TV English", Hope Channel International
-https://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/index_3192_av-p.m3u8?sd=10&rebase=on
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/60f14a7fec64454e90712421a46ac6f1/manifest.m3u8
 #EXTINF:-1  group-title="TV English", 3ABN Three Angels
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/index.m3u8
 #EXTINF:-1  group-title="TV English", 3ABN Dare to Dream 
@@ -83,20 +83,20 @@ https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1  group-title="TV English", Mission TV 
 http://stream.missiontv.com:1935/live/missiontv_720p/playlist.m3u8
 #EXTINF:-1  group-title="TV English", LLBN HisWord
-https://t01587-lh.akamaihd.net/i/t01587HisWord_1@692072/index_1400_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+https://brightstar-hisword.secure.footprint.net/egress/bhandler/brightstar/brightstarHisWord/manifest.m3u8
 #EXTINF:-1  group-title="TV English", LLBN HisLight
-https://t01587-lh.akamaihd.net/i/t01587HisLight_1@692073/index_1400_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+https://t01587-lh.akamaihd.net/i/t01587HisLight_1@692073/master.m3u8
 #EXTINF:-1  group-title="TV English", LLBN SmartLifeStyle
-https://t01587-lh.akamaihd.net/i/t01587SmartLifeStyle_1@692079/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+https://t01587-lh.akamaihd.net/i/t01587SmartLifeStyle_1@692079/master.m3u8
 
 #EXTINF:-1  group-title="TV Languages", 3ABN Français 
 https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/master.m3u8
 #EXTINF:-1  group-title="TV Languages", 3ABN Russia 
 http://hls.tv.3angels.ru/stream.m3u8
 #EXTINF:-1  group-title="TV Languages", Espérance TV InterAmérique
-http://bcliveuniv-lh.akamaihd.net/i/IADFrench_1@414083/master.m3u8
+https://hcinteram.mmdlive.lldns.net/hcinteram/5fb30e8b271544039e79f93d4d496b25/manifest.m3u8
 #EXTINF:-1  group-title="TV Languages", Hope Channel Polska
-http://stream.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
+https://stream.hopechannel.pl/livetv/colombo/hope.m3u8
 #EXTINF:-1  group-title="TV Languages", LLBN Arabic
 https://t01587-lh.akamaihd.net/i/t01587Arabic_1@692074/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
 #EXTINF:-1  group-title="TV Languages", LLBN Chinese
