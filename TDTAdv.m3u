@@ -98,11 +98,11 @@ https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1  group-title="TV English", Mission TV 
 http://stream.missiontv.com:1935/live/missiontv_720p/playlist.m3u8
 #EXTINF:-1  group-title="TV English", LLBN HisWord
-https://t01587-lh.akamaihd.net/i/t01587HisWord_1@692072/index_1400_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+https://brightstar-hisword.secure.footprint.net/egress/bhandler/brightstar/brightstarHisWord/manifest.m3u8
 #EXTINF:-1  group-title="TV English", LLBN HisLight
-https://t01587-lh.akamaihd.net/i/t01587HisLight_1@692073/index_1400_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+https://t01587-lh.akamaihd.net/i/t01587HisLight_1@692073/master.m3u8
 #EXTINF:-1  group-title="TV English", LLBN SmartLifeStyle
-https://t01587-lh.akamaihd.net/i/t01587SmartLifeStyle_1@692079/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+https://t01587-lh.akamaihd.net/i/t01587SmartLifeStyle_1@692079/master.m3u8
 
 #EXTINF:-1  group-title="TV Languages", 3ABN Français 
 https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/master.m3u8
