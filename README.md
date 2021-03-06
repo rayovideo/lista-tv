@@ -32,7 +32,7 @@ http://www.esperanzatv.org/
 #EXTINF:-1 group-title="1·TV Español", Esperanza TV Costa Rica
 https://www.esperanzatvcr.org/
 
-#EXTINF:-1 group-title="1·TV Español", Esperanza TV interamerica
+#EXTINF:-1 group-title="1·TV Español", HopeChannel INTER-AMERICA
 https://www.hopechannelinteramerica.org/espanol/streaming/
 
 #EXTINF:-1 group-title="1·TV Español", Nuevo Tiempo
