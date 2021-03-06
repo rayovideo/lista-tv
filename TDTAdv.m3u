@@ -80,9 +80,9 @@ http://cdn.salemweb.net/godtube/2014/04/26/465742/465742_480p.mp4
 http://cdn.salemweb.net/godtube/2014/04/26/465743/465743_480p.mp4
 
 #EXTINF:-1  group-title="TV English", Hope Channel
-https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/5d6c7f68a82b4c4885014e6f813b7bd9/manifest.m3u8
 #EXTINF:-1  group-title="TV English", Hope Channel International
-https://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/index_3192_av-p.m3u8?sd=10&rebase=on
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/60f14a7fec64454e90712421a46ac6f1/manifest.m3u8
 #EXTINF:-1  group-title="TV English", 3ABN Three Angels
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/index.m3u8
 #EXTINF:-1  group-title="TV English", 3ABN Dare to Dream 
