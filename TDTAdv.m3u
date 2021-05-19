@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="1·TV Español", Esperanza TV Colombia
-https://edge.teveo.com.co/live/AeAAAgAOAAJVA1IAyADIWGQAZJgAAAAAAmCft8fIdEy8AAAA/chunklist_w556789532.m3u8
 #EXTINF:-1 group-title="1·TV Español", 3ABN Latino
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 #EXTINF:-1 group-title="TV English", 3ABN Praise Him Music 
