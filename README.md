@@ -12,7 +12,7 @@ https://3abn.org/all-streams/kids.html
 https://logostv.es/directo
 
 #EXTINF:-1 group-title="1·TV Español", 3ABN Nicaragua
-https://www.3abnnicaragua.tv/Inicio/3ABN
+https://3abnnicaragua.tv/live.html
 
 #EXTINF:-1 group-title="1·TV Español", LOGOS TV
 https://logostv.es/directo
