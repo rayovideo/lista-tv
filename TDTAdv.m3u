@@ -32,7 +32,7 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 group-title="1·TV Español", Montemorelos TV
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
 #EXTINF:-1 group-title="1·TV Español", LLBN Latino
-https://textuploader.com/dbdbm/raw
+https://brightstar-latino.secure.footprint.net/egress/bhandler/brightstar/brightstarLatino/manifest.m3u8
 #EXTINF:-1 group-title="1·TV Español", Red ADVenir
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 
