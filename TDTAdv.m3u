@@ -17,8 +17,6 @@ https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
 https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
 #EXTINF:-1 group-title="1·TV Español", SUM TV Latino
 https://uni10rtmp.tulix.tv/ssstv2/smil:ssstv2web.smil/playlist.m3u8
-#EXTINF:-1 group-title="1·TV Español", Esperanza Radio B/ga
-https://edge.teveo.com.co/live/AeAAAgAOAAJVA1IAyADIQCAAAAAAAAAAAmE9AXi-DvlqAAAA/playlist.m3u8
 #EXTINF:-1 group-title="1·TV Español", Esperanza TV
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/manifest.m3u8
 #EXTINF:-1 group-title="1·TV Español", Esperanza TV Costa Rica
