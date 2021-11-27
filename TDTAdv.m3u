@@ -50,17 +50,17 @@ http://war.str3am.com:7180/MC01
 http://stream.novotempo.com/radio/smil:radionovotempo.smil/playlist.m3u
 
 #EXTINF:0 group-title="4·SERIES", 1/6 Cómo Todo Comenzó : EL PREDICADOR REACIO mp4
-https://txt.do/db5h1/raw
+https://s3-us-west-2.amazonaws.com/adventist-telltheworld/es/Episodes/720/TTW_EPISODE_1_ES_720.mp4
 #EXTINF:0 group-title="4·SERIES", 2/6: JESÚS VIENE PRONTO mp4
-https://txt.do/db5h6/raw
+https://s3-us-west-2.amazonaws.com/adventist-telltheworld/es/Episodes/720/TTW_EPISODE_2_ES_720.mp4
 #EXTINF:0 group-title="4·SERIES", 3/6: UN AMARGO CHASCO mp4
-https://txt.do/db5xh/raw
+https://s3-us-west-2.amazonaws.com/adventist-telltheworld/es/Episodes/720/TTW_EPISODE_3_ES_720.mp4
 #EXTINF:0 group-title="4·SERIES", 4/6: UNA PRUEBA DE FE mp4
-https://txt.do/db5xg/raw
+https://s3-us-west-2.amazonaws.com/adventist-telltheworld/es/Episodes/720/TTW_EPISODE_4_ES_720.mp4
 #EXTINF:0 group-title="4·SERIES", 5/6: SE COLOCAN LOS CIMIENTOS mp4
-https://txt.do/db5xp/raw
+https://s3-us-west-2.amazonaws.com/adventist-telltheworld/es/Episodes/720/TTW_EPISODE_5_ES_720.mp4
 #EXTINF:0 group-title="4·SERIES", 6/6: DILO AL MUNDO mp4
-https://txt.do/db5xv/raw
+https://s3-us-west-2.amazonaws.com/adventist-telltheworld/es/Episodes/720/TTW_EPISODE_6_ES_720.mp4
 
 #EXTINF:0 group-title="4·SERIES", 1/8 Guardianes de la Flama: La Apostasia   mp4
 http://cdn.salemweb.net/godtube/2014/04/26/465734/465734_480p.mp4
